@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=1380&t=st=1713336158~exp=1713336758~hmac=b3527ef11a88be4106bfcb308cb89b64666139d6b0a0e1d162b6187697af98e6)
+![MasterHead](https://static.vecteezy.com/system/resources/previews/007/938/815/large_2x/concept-illustration-programmer-engineer-with-laptop-sitting-at-the-office-desk-holding-a-pen-while-coding-and-developing-flat-cartoon-style-free-vector.jpg)
 
 <h1 align="center">Hi 👋, I'm Aravind S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
